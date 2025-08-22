@@ -1,0 +1,15 @@
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\bin\Debug\net9.0\RPGInventorySystem.exe
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\bin\Debug\net9.0\RPGInventorySystem.deps.json
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\bin\Debug\net9.0\RPGInventorySystem.runtimeconfig.json
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\bin\Debug\net9.0\RPGInventorySystem.dll
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\bin\Debug\net9.0\RPGInventorySystem.pdb
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\RPGInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\RPGInventorySystem.AssemblyInfoInputs.cache
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\RPGInventorySystem.AssemblyInfo.cs
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\RPGInventorySystem.csproj.CoreCompileInputs.cache
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\RPGInventorySystem.sourcelink.json
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\RPGInventorySystem.dll
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\refint\RPGInventorySystem.dll
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\RPGInventorySystem.pdb
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\RPGInventorySystem.genruntimeconfig.cache
+D:\GitHub\MMORPG-DDD\RPGInventorySystem\obj\Debug\net9.0\ref\RPGInventorySystem.dll
